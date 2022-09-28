@@ -43,11 +43,11 @@ function per0() {
 }
 
 function per25() {
-    document.getElementById("myBar").style.width = "25%";
+    document.getElementById("myBar").style.width = "33%";
 }
 
 function per50() {
-    document.getElementById("myBar").style.width = "75%";
+    document.getElementById("myBar").style.width = "66%";
 }
 
 function per100() {
